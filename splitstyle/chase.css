@@ -1,0 +1,17 @@
+*{
+	box-sizing: border-box;
+}
+#container{
+	height:100%;
+	width:100%;
+}
+.player{
+	height:100px;
+	width:100px;
+	background-color: red;
+	border: 1px solid blue;
+	display:none;
+	position:absolute;
+	top:0;
+	left:0;
+}

@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+body{
+	background-color: #fff;
+	font-family: 'calibri', arial, sans-serif;
+}
+#sidebar{
+	padding:15px 30px;
+	position:fixed;
+	width:20%;
+	height:100%;
+	
+}
+#sidebar img{
+	height:50px;
+}
+#display{
+	margin-left:20%;
+	padding-left: 8%;
+	width:80%;
+	background-color: "mistyrose";
+}
+#display img{
+	
+	border: 1px solid black;
+}
